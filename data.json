@@ -1,23 +1,16 @@
 [
-    {
-        "id":1,
-        "nombre": "Drop Box",
-        "categoria":"Suspenso",
-        "descripcion":"Actriz principal Sandra Bullock",
-        "fecha": "2024-11-19T06:00:00.000Z"
-    },
-    {
-        "id":3,
-        "nombre": "No mires atras",
-        "categoria":"Ficción",
-        "descripcion":"Actiz principal Julia Roberts",
-        "fecha": "2024-11-14T06:00:00.000Z"  
-    },
-    {
-        "id":4,
-        "nombre": "La casa de papel",
-        "categoria":"Drama",
-        "descripcion":"Origen Español",
-        "fecha": "2024-11-18T06:00:00.000Z"
-    }
+  {
+    "id": 1,
+    "nombre": "la bella y la bestia",
+    "categoria": "animada",
+    "descripcion": "pelicula de disney",
+    "fecha": "2024-11-21T06:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Deadpool&Wolverine",
+    "categoria": "accion",
+    "descripcion": "la peor de las 3 de deadpool",
+    "fecha": "2024-11-21T06:00:00.000Z"
+  }
 ]
